@@ -1,4 +1,6 @@
 # Main Quest 1: Latihan Analisis Lalu Lintas Jaringan
+Before we start, just info:
+https://github.com/Zeltoc/wireshark-netsupport-rat-analysis
 
 ### A. Ringkasan Eksekutif
 Telah terdeteksi aktivitas anomali jaringan yang mengindikasikan adanya infeksi malware jenis NetSupport RAT di dalam segmen LAN 10.2.28.0/24. Infeksi ini melakukan komunikasi Command and Control (C2) ke server eksternal dengan menyamarkan lalu lintas HTTP biasa melalui Port 443.
